@@ -23,15 +23,23 @@ https://github.com/user-attachments/assets/453c391a-f47f-4939-8043-4bbac83219f3
 ## 📊 **Results & Demo**  
 **Initial Version - Basic ECG Signal Reading**
 <img width="960" alt="Screenshot 2025-03-14 214200" src="https://github.com/user-attachments/assets/37810d58-3108-4978-8280-f2ea4cf05ec1" />
+This first version successfully reads and plots raw ECG signals but lacks noise filtering and advanced features.
+
 
 **Enhanced Version - Noise Removal Implemented**
 <img width="960" alt="Screenshot 2025-03-14 214307" src="https://github.com/user-attachments/assets/856e963c-5129-4f4b-a96b-b175a608dfaf" />
+The updated version introduces noise-filtering techniques, significantly improving ECG signal clarity.
+
 
 **GUI Upgrade - More Features & Bug Fixes**
 <img width="960" alt="Screenshot 2025-03-14 214403" src="https://github.com/user-attachments/assets/35b79f28-c9d1-4050-845c-27e080448a71" />
+This version enhances the graphical interface, adds playback controls, and improves overall user experience.
+
 
 **Final Version - Fully Optimized ECG Tool**
 <img width="960" alt="Screenshot 2025-03-14 214459" src="https://github.com/user-attachments/assets/7bfe0fd7-cef0-4a9b-b6a1-c58874fe1fa1" />
+The final release delivers a refined UI, optimized performance, and complete signal processing capabilities.
+
 
 ## **👥 Team**  
 This project was developed by:  
